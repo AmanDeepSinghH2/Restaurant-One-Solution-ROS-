@@ -11,7 +11,7 @@ This repository contains the complete data engineering, analytics, and BI soluti
 .
 ├── data/
 │   ├── raw/
-│   │   ├── csv/                    # 14 raw CSV data files
+│   │   ├── csv/                    # 15 raw CSV data files
 │   │   │   ├── Banking.csv         # Banking transactions (18K rows)
 │   │   │   ├── Cash_Up.csv         # Cash reconciliation (18K rows)
 │   │   │   ├── Clients.csv         # Client reference data (31 rows)
